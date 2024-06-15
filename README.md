@@ -1,6 +1,6 @@
 # Hey there, I'm Tyrone 👋
 
-[City main](https://github.com/tyronejosee/tyronejosee/blob/main/assets/gif/main.gif)
+! [City main](https://github.com/tyronejosee/tyronejosee/blob/main/assets/gif/main.gif)
 
 <p>
   <a href="https://twitter.com/#" target="_blank">
