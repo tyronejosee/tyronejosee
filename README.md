@@ -1,29 +1,3 @@
-# Hey there, I'm Tyrone 👋
-
-![City main](https://github.com/tyronejosee/tyronejosee/blob/main/assets/gif/main.gif)
-
-<p>
-  <a href="https://twitter.com/#" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/#" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/#" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=purple" />
-  </a>
-</p>
-
-## 🗿 Backend Developer
-
-- 🔖 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- 📦 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- 🦾 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- 👣 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- 💎 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- 🖼️ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- 🎨 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
 ## 🛠️ Languages and Tools
 
 <p>
