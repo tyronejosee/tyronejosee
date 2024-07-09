@@ -1,12 +1,14 @@
 # Hey there, I'm Tyrone 👋
 
-Backend Developer specializing in Python with Django, Flask and FastAPI. Experienced in API development, database management, cloud deployment, and software architecture. Enthusiast in graphic and web design.
+<img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/gif/dog.gif" alt="dog gif" width="40" height="60"/>
+
+[Backend Developer](https://www.coursera.org/articles/back-end-developer) specializing in Python with Django, Flask and FastAPI. Experienced in API development, database management, cloud deployment, and software architecture. Enthusiast in graphic and web design.
 
 ## 🛠️ Languages and Tools
 
 <p>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
-  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/vscode.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/vscode.svg" alt="vscode" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/pycharm.svg" alt="pycharm" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/python.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/django.svg" alt="django" width="40" height="40"/>
@@ -16,15 +18,15 @@ Backend Developer specializing in Python with Django, Flask and FastAPI. Experie
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/swagger.svg" alt="swagger" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/insomnia.svg" alt="insomnia" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/postman.svg" alt="postman" width="40" height="40"/>
-  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/postgresql.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/postgresql.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/redis.svg" alt="redis" width="40" height="40"/>
-  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/sqlite.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/sqlite.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/git.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/docker.svg" alt="docker" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/prometheus.svg" alt="prometheus" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/grafana.svg" alt="grafana" width="40" height="40"/>  
-  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/nginx2.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/nginx2.svg" alt="nginx" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/terraform.svg" alt="terraform" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/aws.svg" alt="aws" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/html.svg" alt="html" width="40" height="40"/>
@@ -32,11 +34,12 @@ Backend Developer specializing in Python with Django, Flask and FastAPI. Experie
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/javascript.svg" alt="javascript" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/react.svg" alt="react" width="40" height="40"/>
+  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/nextjs.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/figma.svg" alt="figma" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/photoshop.svg" alt="photoshop" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/illustrator.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/trello.svg" alt="trello" width="40" height="40"/>
-  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/jira.svg" alt="Jira" width="40" height="40"/>
-  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/notion.svg" alt="notion" width="40" height="40"/>
+  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/jira.svg" alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/notion.svg" alt="notion" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/obsidian.svg" alt="obsidian" width="40" height="40"/>
 </p>
