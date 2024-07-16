@@ -1,7 +1,5 @@
 # Hey there, I'm Tyrone 👋
 
-<img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/gif/dog.gif" alt="dog gif" width="40" height="60"/>
-
 [Backend Developer](https://www.coursera.org/articles/back-end-developer) specializing in Python with Django, Flask and FastAPI. Experienced in API development, database management, cloud deployment, and software architecture. Enthusiast in graphic and web design.
 
 ## 🛠️ Languages and Tools
@@ -33,6 +31,7 @@
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/css.svg" alt="css" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/typescript.svg" alt="typescript" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/react.svg" alt="react" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/nextjs.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://github.com/tyronejosee/tyronejosee/blob/main/assets/svg/figma.svg" alt="figma" width="40" height="40"/>
